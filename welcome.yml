@@ -1,1 +1,6 @@
 msg: Welcome Developer
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
